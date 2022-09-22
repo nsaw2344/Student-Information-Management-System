@@ -5,8 +5,9 @@
 </head>
   <h1>ChatChat</h1>
   <body>
-    <p>Student-Information-Management-System</p>
-    <p>学生信息管理系统</p>
+    <h2>Student-Information-Management-System<br>
+    学生信息管理系统
+    </h2>
     <p>利用链表这种数据结构，对学生信息进行增删改查</p>
 </body>
 </html>
